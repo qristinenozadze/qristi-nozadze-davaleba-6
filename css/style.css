@@ -1,0 +1,34 @@
+.container{
+    width: 1300px;
+    margin: 0 auto;
+}
+.h6 {
+   display: inline-block;
+   margin-right: 20px;
+   font-family: "Roboto", serif;
+   width: 50px;
+   height: 13px;
+   top: -491px;
+   left: -344px;
+   font-size: 11px;
+   font-weight: 700;
+   line-height: 12.89px;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+   
+}
+.h3{
+    margin-top: 50px;
+    width: 120px;
+    height: 28px;
+    top: -436px;
+    left: -584px;
+    font-family: "Roboto", serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28.13px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
