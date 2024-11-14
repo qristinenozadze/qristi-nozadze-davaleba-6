@@ -2,33 +2,153 @@
     width: 1300px;
     margin: 0 auto;
 }
+.dfix{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: white;
+}
 .h6 {
    display: inline-block;
    margin-right: 20px;
    font-family: "Roboto", serif;
    width: 50px;
    height: 13px;
-   top: -491px;
-   left: -344px;
    font-size: 11px;
    font-weight: 700;
    line-height: 12.89px;
-   text-align: left;
-   text-underline-position: from-font;
-   text-decoration-skip-ink: none;
-   
 }
+.h61 {
+    display: inline-block;
+    margin-right: 20px;
+    font-family: "Roboto", serif;
+    width: 50px;
+    height: 13px;
+    margin-left: 125px;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 12.89px;
+ }
+
 .h3{
     margin-top: 50px;
-    width: 120px;
-    height: 28px;
-    top: -436px;
-    left: -584px;
     font-family: "Roboto", serif;
     font-size: 24px;
     font-weight: 700;
     line-height: 28.13px;
+}
+.d1{
+    width: 362px;
+    height: 171px;
+    top: 195px;
+    left: 383px;
+    border-radius: 0px 0px 5px 5px;
+    padding: 20px;
+    background: #FFFFFF;
+    display: inline-block;
+
+}
+.d2{
+    width: 362px;
+    height: 186px;
+    top: 381px;
+    left: 181px;
+    border-radius: 5px 5px 0px 0px;
+    display: inline-block;
+}
+.s1{
+    display: inline-block;
+    margin-right: 20px;
+}
+.s2{
+    display: inline-block;
+    margin-right: 20px;
+}
+.s3{
+    display: inline-block;
+    
+}
+.sp1{
+    width: 238px;
+    height: 36px;
+    font-family: "Roboto", serif;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 11.72px;
+    color:  #8A8787;
+
+}
+.sp{
+    width: 34px;
+    height: 12px;
+    display: inline-block;
+    font-family: "Roboto", serif;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 11.72px;
+    color: #8A8787;
+
+}
+.pic1{
+    display: inline-block;
+    position: relative;
+}
+
+.h4ch{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+   
+    color: #FFFFFF;
+    width: 184px;
+    height: 23px;
+    font-family: "Roboto", serif; ;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23.44px;
+;
+
+
+}
+.df{
+    background: #243043;
+}
+.df1{
+    display: inline-block;
+}
+.df1 > nav {
+    color: #818687;
+    font-family: "Roboto", serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.06px;
+    text-align: left;
+;
+
+}
+
+
+.h5{
+    font-family: "Roboto", serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.06px;
     text-align: left;
     text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+    display: inline-block;
+    color: #FFFFFF;
+    margin: 25px 500px 200px 50px ;
+}
+.n1{
+    display: inline-block;
+    margin: 50px 25px 25px 50px;
+}
+.n2{
+    display: inline-block;
+    margin: 50px 25px 25px 50px;
+}
+.n3{
+    display: inline-block;
+    margin: 50px 25px 25px 50px;
 }
